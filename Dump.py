@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 # coding=utf-8
-# coding by KhamdihiXD
+# coding by amir
 # Note : jangan cuma rekode kontol
 # Open source code by khamdihiXD | ngotak dikit cok jangan jual di perjual belikan...
 
